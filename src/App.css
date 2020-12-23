@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+  
+}
+
+#butter {
+  display: flex;
+  justify-content: right;
+  }
+
+body {
+  background-color: #c4d8e2;
+  padding-top: 75px;
+}
+
+  .note-button {
+    padding: 20px;
+    background-color: teal !important;
+    color: whitesmoke !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    font-weight: bold !important;
+  }
+
+  .siteTheme {
+    background-color: #33586b !important;
+    color: whitesmoke !important;
+    font-weight: bold;
+  }
+
+  .addPadding15 {
+      padding: 15px;
+  }
+
+  .navBar {
+    background-color: #33586b !important;
+    color: whitesmoke !important;
+    height: 75px !important;
+    font-weight: bold;
+  }
+
+  .navBar img {
+    padding-right: 15px !important;
+  }
+  
+  .boomNoteLogo:link, .boomNoteLogo:visited, .boomNoteLogo:active {
+    text-decoration: none !important;
+    color: whitesmoke !important;
+    outline: 0;
+    border: none;
+    -moz-outline-style: none;
+    outline-style: none;
+  }
+
+  #boomNavTitle {
+    padding-left: 10px;
+  }
+
+  
+
+
+
